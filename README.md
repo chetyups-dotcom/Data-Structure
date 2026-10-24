@@ -892,8 +892,32 @@ Student ARUN got maximum marks = 98 in Subject : 1
 Student ARUN got maximum marks = 67 in Subject : 2 
 ARUN obtained the total highest marks.
 
-Ex No: Content Beyond Syllabus - 1: POSTFIX EXPRESSION EVALUATION USING STACK OUTPUT 
+Ex No: Content Beyond Syllabus - 1: POSTFIX EXPRESSION-----------------OUTPUT
+EVALUATION USING STACK
+OUTPUT
 postfix evaluation: -4
 
-Ex No: Content Beyond Syllabus - 2: PRODUCER CONSUMER PROBLEM USING QUEUE
-OUTPUT 1.Producer 2.Consumer 3.Display 4.Exit Enter your choice: 1 Enter the piece of data: 3 Enter your choice: 1 Enter the piece of data: 5 Enter your choice: 3 The data are 3 5 Enter your choice: 2 The consumed data is = 3 Enter your choice: 3 The data are 5 Enter your choice: 4
+
+
+
+Ex No: Content Beyond Syllabus - 2: PRODUCER CONSUMER PROBLEM--------------OUTPUT
+USING QUEUE
+OUTPUT
+1.Producer
+2.Consumer
+3.Display
+4.Exit
+Enter your choice: 1
+Enter the piece of data: 3
+Enter your choice: 1
+Enter the piece of data: 5
+Enter your choice: 3
+The data are
+3
+5
+Enter your choice: 2
+The consumed data is = 3
+Enter your choice: 3
+The data are
+5
+Enter your choice: 4
